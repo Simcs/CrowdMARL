@@ -45,7 +45,7 @@ python .\train_model.py --dt --path .\checkpoints\
 python .\test_model.py --model=<test_model_location> --env=<environment_name>
 ```
 ### options
-- ***--dt*** (required) : 
+- ***--dt*** (required) : The timestep of the environment.
 - ***-m***/***--model*** (optional) : Path of the model to test.
 - ***-e***/***--env*** (optional) : The name of the environment to use.
 - ***-r***/***--render*** (optional) : Whether to render result or not. (Default=True)
