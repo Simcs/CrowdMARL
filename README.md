@@ -1,5 +1,5 @@
 # CrowdMARL
-crowd simulation using multi-agent PPO algorithm.
+crowd simulation using multi-agent PPO algorithm.  
 2021 Fall CS492: Introduction to Deep Learning Team11 final project.
 
 ***
