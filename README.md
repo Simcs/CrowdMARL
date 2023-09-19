@@ -4,6 +4,9 @@ crowd simulation using multi-agent PPO algorithm.
 
 ***
 
+## Result video
+[Youtube Link](https://www.youtube.com/watch?v=pXNPWXa9Doo)
+
 ## Code descriptions
 - **environment.py** : Implementation of crowd simulation reinforcement learning environment.
 - **model.py** : The actor-critic model used for training.
